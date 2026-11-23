@@ -56,7 +56,7 @@ I'm a Computer Science student passionate about building practical software solu
 ### 🤝 Connect With Me
 
 - LinkedIn:(https://www.linkedin.com/in/sai-yogeshwer-m-b97583341/)
-- GitHub:(github.com/saiyogeshwer)
+- GitHub:(https://www.github.com/saiyogeshwer)
 
 ---
 
