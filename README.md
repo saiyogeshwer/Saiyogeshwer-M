@@ -1,4 +1,3 @@
-# Saiyogeshwer-M
 # Hi, I'm Sai Yogeshwer 👋
 
 ### B.Tech Computer Science and Engineering Student | Aspiring Software Developer
